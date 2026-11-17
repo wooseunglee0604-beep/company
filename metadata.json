@@ -1,0 +1,8 @@
+{
+  "name": "Remix 하이글로벌컴퍼니",
+  "description": "공조, 반도체, UHP 배관 사업을 선도하는 하이글로벌컴퍼니 웹사이트 (웹디자인개발기능사 실기 F-4형 바닐라 웹 표준 사이트)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
